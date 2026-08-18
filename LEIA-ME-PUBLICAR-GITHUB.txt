@@ -1,0 +1,17 @@
+EPI-MISU V1.2 — PACOTE PRONTO PARA GITHUB PAGES
+
+IMPORTANTE:
+1. Extraia este ZIP no computador.
+2. Abra a pasta extraída.
+3. No GitHub, envie OS ARQUIVOS E PASTAS QUE ESTÃO DENTRO dela para a RAIZ do repositório.
+4. O arquivo index.html deve aparecer diretamente na página principal do repositório, e não dentro de outra pasta.
+5. Em Settings > Pages, selecione Deploy from a branch, branch main, pasta /(root), e salve.
+
+Estrutura esperada na raiz do repositório:
+index.html
+representantes.html
+assets/
+data/
+.nojekyll
+README_PUBLICACAO_GITHUB.txt
+LEIA-ME-PUBLICAR-GITHUB.txt
