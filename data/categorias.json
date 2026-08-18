@@ -1,0 +1,197 @@
+[
+  {
+    "row": 3,
+    "name": "Ponta Macho MISU AZ com bolsa PVC PN80",
+    "image": "assets/produtos/produto-grupo-01.png"
+  },
+  {
+    "row": 7,
+    "name": "Ponta Fêmea MISU AZ com bolsa PVC PN80",
+    "image": "assets/produtos/produto-grupo-02.png"
+  },
+  {
+    "row": 11,
+    "name": "Tubo Irrigação PVC - PBS - PN-80 ER MISU  AZ",
+    "image": "assets/produtos/produto-grupo-03.png"
+  },
+  {
+    "row": 15,
+    "name": "Inicial Fêmea Fêmea MISU",
+    "image": "assets/produtos/produto-grupo-38.png"
+  },
+  {
+    "row": 31,
+    "name": "Inicial Macho MISU AZ x  Rosca Externa",
+    "image": "assets/produtos/produto-grupo-04.png"
+  },
+  {
+    "row": 47,
+    "name": "Adaptador Fêmea para Mangote MISU - AZ",
+    "image": "assets/produtos/produto-grupo-05.png"
+  },
+  {
+    "row": 51,
+    "name": "Adaptador Macho para Mangote MISU - AZ",
+    "image": "assets/produtos/produto-grupo-06.png"
+  },
+  {
+    "row": 55,
+    "name": "Curva MISU AZ  x  PVC",
+    "image": "assets/produtos/produto-grupo-07.jpg"
+  },
+  {
+    "row": 62,
+    "name": "Curva MISU AZ",
+    "image": "assets/produtos/produto-grupo-08.png"
+  },
+  {
+    "row": 69,
+    "name": "Luvas Soldaveis PVC Bolsa / Bolsa",
+    "image": "assets/produtos/produto-grupo-09.png"
+  },
+  {
+    "row": 73,
+    "name": "Curva PVC 45º Ponta e Bolsa",
+    "image": "assets/produtos/produto-grupo-10.png"
+  },
+  {
+    "row": 78,
+    "name": "Curva PVC 90º Ponta e Bolsa",
+    "image": "assets/produtos/produto-grupo-11.png"
+  },
+  {
+    "row": 82,
+    "name": "Curva Dupla MISU AZ  x  PVC",
+    "image": "assets/produtos/produto-grupo-12.png"
+  },
+  {
+    "row": 86,
+    "name": "HIDRANTE MIZU AZ",
+    "image": "assets/produtos/produto-grupo-13.png"
+  },
+  {
+    "row": 93,
+    "name": "CURVA DE DERIVAÇÃO MISU AZ",
+    "image": "assets/produtos/produto-grupo-14.png"
+  },
+  {
+    "row": 97,
+    "name": "CURVA DE DERIVAÇÃO SEM HASTE MISU AZ",
+    "image": "assets/produtos/produto-grupo-15.png"
+  },
+  {
+    "row": 101,
+    "name": "Ligação Pressão Misu",
+    "image": "assets/produtos/produto-grupo-16.png"
+  },
+  {
+    "row": 105,
+    "name": "Válvula de Linha MISU AZ",
+    "image": "assets/produtos/produto-grupo-17.png"
+  },
+  {
+    "row": 108,
+    "name": "Saída para Canhão",
+    "image": "assets/produtos/produto-grupo-18.png"
+  },
+  {
+    "row": 111,
+    "name": "Curva 90° com Roca MISU AZ",
+    "image": "assets/produtos/produto-grupo-19.png"
+  },
+  {
+    "row": 115,
+    "name": "Redução MISU - AZ",
+    "image": "assets/produtos/produto-grupo-20.png"
+  },
+  {
+    "row": 118,
+    "name": "Aumento MISU - AZ",
+    "image": "assets/produtos/produto-grupo-21.png"
+  },
+  {
+    "row": 121,
+    "name": "Redução MISU - AZ X PVC",
+    "image": "assets/produtos/produto-grupo-22.png"
+  },
+  {
+    "row": 124,
+    "name": "Saída P/ Aspersor Abraçadeira x Rosca 1\"",
+    "image": "assets/produtos/produto-grupo-23.png"
+  },
+  {
+    "row": 128,
+    "name": "Saída para Aspersor PVC x Abraçadeira",
+    "image": "assets/produtos/produto-grupo-24.png"
+  },
+  {
+    "row": 131,
+    "name": "Te MF com Rosca MISU - AZ X PVC",
+    "image": "assets/produtos/produto-grupo-25.png"
+  },
+  {
+    "row": 137,
+    "name": "Tubo Subida com Rosca PVC",
+    "image": "assets/produtos/produto-grupo-26.png"
+  },
+  {
+    "row": 143,
+    "name": "Tripé para Aspersor AZ",
+    "image": "assets/produtos/produto-grupo-27.png"
+  },
+  {
+    "row": 148,
+    "name": "Te MISU - AZ x PVC",
+    "image": "assets/produtos/produto-grupo-28.png"
+  },
+  {
+    "row": 152,
+    "name": "Te MISU AZ",
+    "image": "assets/produtos/produto-grupo-29.png"
+  },
+  {
+    "row": 157,
+    "name": "Te MF com Rosca MISU - AZ X PVC",
+    "image": "assets/produtos/produto-grupo-25.png"
+  },
+  {
+    "row": 163,
+    "name": "Tampão Final MISU AZ",
+    "image": "assets/produtos/produto-grupo-30.png"
+  },
+  {
+    "row": 167,
+    "name": "Adaptador P/ Mangote com Rosca MISU AZ",
+    "image": "assets/produtos/produto-grupo-31.png"
+  },
+  {
+    "row": 171,
+    "name": "Parafuso com vedação do Hidrante MISU",
+    "image": "assets/produtos/produto-grupo-32.png"
+  },
+  {
+    "row": 173,
+    "name": "Vedação do Hidrante MISU",
+    "image": "assets/produtos/produto-grupo-33.png"
+  },
+  {
+    "row": 175,
+    "name": "Anel de Vedação MISU",
+    "image": "assets/produtos/produto-grupo-34.png"
+  },
+  {
+    "row": 179,
+    "name": "Mangote Tipo Kanaflex Reforçado",
+    "image": "assets/produtos/produto-grupo-35.png"
+  },
+  {
+    "row": 183,
+    "name": "Abraçadeira Reforçada para Mangote",
+    "image": "assets/produtos/produto-grupo-36.png"
+  },
+  {
+    "row": 187,
+    "name": "Válvula de Pé",
+    "image": "assets/produtos/produto-grupo-37.png"
+  }
+]
